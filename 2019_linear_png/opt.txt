@@ -1,0 +1,15 @@
+----------------- Options ---------------
+                batchSize: 1                             
+              contentPath: data/photo_real/content2/images/
+           contentSegPath: data/photo_real/contentSeg2/  
+                     cuda: True                          
+              decoder_dir: models/dec_r41.pth            
+                 fineSize: 512                           
+                    layer: r41                           
+               matrixPath: models/r41.pth                
+                     outf: PhotoReal/                    
+                  spn_dir: models/r41_spn.pth            
+                stylePath: data/photo_real/style2/images/
+             styleSegPath: data/photo_real/styleSeg2/    
+                  vgg_dir: models/vgg_r41.pth            
+----------------- End -------------------
