@@ -16,6 +16,8 @@ If you find the code helpful, please kindly cite the following paper.
 
 Ying Qu, Zhenzhou Shao and Hairong Qi.
 “Non-local Representation based Mutual Affine-Transfer Network for Photorealistic Stylization”,
-IEEE Transactions on Pattern Analysis and Machine Intelligence，July 2021.
+IEEE Transactions on Pattern Analysis and Machine Intelligence，vol. 44, no. 10, pp. 7046-7061, 1 Oct. 2022, doi: 10.1109/TPAMI.2021.3095948.
+
+
 
 
