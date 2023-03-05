@@ -10,7 +10,7 @@ run "0_style_transfer" to perform style transfer with a single layer stick-break
 
 Please adjust the parameters based on the input images. 
 
-
+The results of the proposed methods are located at the folders [data1_our_results_NL-MAT] and [data2_our_results_NL-MAT].
 
 If you find the code helpful, please kindly cite the following paper.
 
