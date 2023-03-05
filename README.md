@@ -1,4 +1,3 @@
-#NL-MAT
 Written by Ying Qu <ada.ying.qu@outlook.com>
 This code is a demo code for our paper
 “Non-local Representation based Mutual Affine-Transfer Network for Photorealistic Stylization”, TPAMI 2021
